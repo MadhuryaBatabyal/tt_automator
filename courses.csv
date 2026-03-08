@@ -1,0 +1,17 @@
+course_code,course_title,type,credits,section
+OS,Operating Systems,theory,4,BSDA-II
+RPROG,R Programming,theory,3,BSDA-II
+BMII,Business Math II,theory,3,BSDA-II
+OSLAB,OS Lab,lab,2,BSDA-II
+RPROG_LAB,R Programming Lab,lab,2,BSDA-II
+ML,Machine Learning,theory,4,BDSA-IV
+AS,Advanced Statistics,theory,4,BDSA-IV
+DV,Data Visualization,theory,3,BDSA-IV
+ML_LAB,Machine Learning Lab,lab,2,BDSA-IV
+DV_LAB,Data Visualization Lab,lab,2,BDSA-IV
+MA,Marketing Analytics,theory,4,BDSA-VI
+TS,Time Series,theory,3,BDSA-VI
+AI,Artificial Intelligence,theory,3,BDSA-VI
+MA_LAB,Marketing Analytics Lab,lab,2,BDSA-VI
+TS_LAB,Time Series Lab,lab,2,BDSA-VI
+AI_LAB,AI Lab,lab,2,BDSA-VI
